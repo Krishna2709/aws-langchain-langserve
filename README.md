@@ -1,2 +1,2 @@
 # aws-langchain-langserve
-Deploying LangChain on AWS with LangServe
+Deploying a LangChain application on AWS with LangServe
